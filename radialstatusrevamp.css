@@ -9,6 +9,10 @@
   overflow: visible;
   contain: none;
 }
+#app-mount .wrapper-3Un6-K foreignObject {
+  -webkit-mask: none;
+          mask: none;
+}
 #app-mount .wrapper-3Un6-K .dots-1k2MxY circle {
   cy: -8 !important;
 }
